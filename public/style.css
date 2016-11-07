@@ -1,0 +1,17 @@
+}
+button{
+  border-radius: 10px;
+  border-color: green;
+}
+input{
+  border-radius: 7px;
+  border-color: orange;
+}
+ul li{
+   color: orange;
+  font-style: italic;
+  margin-left: 7px;
+}
+h3{
+  margin-left: 25px;
+}
